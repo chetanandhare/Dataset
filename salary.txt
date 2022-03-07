@@ -1,0 +1,11 @@
+company,	job,location,salary
+IBM,Data Analyst,Bangalore,648573
+Flipkart,Data Analyst,Bangalore,1191950
+Wipro,ML engineer,	Pune,836874
+Microsoft,ML engineer,Pune,669578
+Accenture,data scientist,Hyderabad,944110
+Infosys,data scientist,Hyderabad,908764
+Oracle,data analitics,New Delhi,926124
+SAP,data analitics,	New Delhi,736708
+IBM,Junior Data Scientist,Mumbai,1646721
+Flipkart,Junior Data Scientist,Mumbai,1392960
